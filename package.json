@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.10.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^14.6.0",
+    "graphql-iso-date": "^3.6.1",
+    "mongoose": "^5.9.2",
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  }
+}
